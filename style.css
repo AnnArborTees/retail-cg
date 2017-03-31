@@ -536,12 +536,12 @@ FONT FACE (IN YOUR FACE)
   http://www.fontsquirrel.com/
   Be sure to remove the comment brackets.
 */
-@font-face {
+/*@font-face {
   font-family: 'Quicksand Regular';
-  src: url("fonts/Quicksand-Regular.otf");
+  src: url("/fonts/Quicksand-Regular.otf");
   font-weight: normal;
   font-style: normal;
-}
+}*/
 /*
 The following is based of Typebase:
 https://github.com/devinhunt/typebase.css
