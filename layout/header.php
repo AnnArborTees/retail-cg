@@ -104,7 +104,7 @@
           <ul id="main-nav">
 
             <li class="music">
-              <a href="/music" title="music">
+              <a href="http://weplaycomputers.com/music" title="music">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" width="80px" height="15px" viewBox="-0.417 -0.784 80 15" enable-background="new -0.417 -0.784 80 15" xml:space="preserve">
                 <defs>
                 </defs>
@@ -130,7 +130,7 @@
             </li>
 
             <li class="shows">
-              <a href="/shows" title="shows">
+              <a href="http://weplaycomputers.com/shows" title="shows">
                 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="95px" height="15px" viewBox="0 0 95 15" enable-background="new 0 0 95 15" xml:space="preserve">
                 <rect x="3.169" y="0.35" fill="#010101" width="5.721" height="2.859"></rect>
                 <rect x="3.169" y="6.07" fill="#010101" width="5.721" height="2.86"></rect>
@@ -160,6 +160,62 @@
               </a>
             </li>
 
+            <li>
+              <a href="http://computergames.annarbortees.com/" title="merch">
+                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="80px" height="15px" viewBox="0 0 80 15" enable-background="new 0 0 80 15" xml:space="preserve">
+                  <rect x="0.227" y="3.574" width="2.574" height="10.293"></rect>
+                  <rect x="5.374" y="3.574" width="2.573" height="10.293"></rect>
+                  <rect x="2.801" y="1" width="2.573" height="2.574"></rect>
+                  <rect x="10.52" y="3.574" width="2.574" height="10.293"></rect>
+                  <rect x="7.947" y="1" width="2.573" height="2.574"></rect>
+                  <rect x="20.813" y="3.574" width="2.573" height="7.719"></rect>
+                  <rect x="23.386" y="6.146" width="2.573" height="2.573"></rect>
+                  <rect x="23.386" y="1" width="5.147" height="2.574"></rect>
+                  <rect x="23.386" y="11.293" width="5.147" height="2.574"></rect>
+                  <rect x="36.252" y="3.574" width="2.572" height="10.293"></rect>
+                  <rect x="38.825" y="1" width="2.575" height="2.574"></rect>
+                  <rect x="41.399" y="3.574" width="2.574" height="2.572"></rect>
+                  <rect x="38.825" y="6.146" width="2.575" height="2.573"></rect>
+                  <rect x="41.399" y="8.719" width="2.574" height="2.574"></rect>
+                  <rect x="43.974" y="11.293" width="2.572" height="2.574"></rect>
+                  <rect x="54.266" y="3.574" width="2.574" height="7.719"></rect>
+                  <rect x="56.84" y="1" width="5.146" height="2.574"></rect>
+                  <rect x="56.84" y="11.293" width="5.146" height="2.574"></rect>
+                  <rect x="69.707" y="1" width="2.571" height="5.146"></rect>
+                  <rect x="69.707" y="8.719" width="2.571" height="5.148"></rect>
+                  <rect x="77.426" y="8.719" width="2.574" height="5.148"></rect>
+                  <rect x="77.426" y="1" width="2.574" height="5.146"></rect>
+                  <rect x="72.278" y="6.146" width="7.722" height="2.573"></rect>
+                </svg>
+              </a>
+            </li>
+
+            <li>
+              <a href="http://weplaycomputers.com/about" title="about">
+                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="80px" height="15px" viewBox="0 0 80 15" enable-background="new 0 0 80 15" xml:space="preserve">
+                  <rect x="0.448" y="2.893" width="2.643" height="10.572"></rect>
+                  <rect x="3.09" y="0.25" width="5.286" height="2.643"></rect>
+                  <rect x="8.376" y="2.893" width="2.643" height="10.572"></rect>
+                  <rect x="3.09" y="5.536" width="5.286" height="2.643"></rect>
+                  <rect x="18.946" y="2.893" width="2.643" height="10.572"></rect>
+                  <rect x="21.589" y="0.25" width="2.643" height="2.643"></rect>
+                  <rect x="24.232" y="2.893" width="2.642" height="2.644"></rect>
+                  <rect x="21.589" y="5.536" width="2.643" height="2.643"></rect>
+                  <rect x="24.232" y="8.179" width="2.642" height="2.643"></rect>
+                  <rect x="21.589" y="10.821" width="2.643" height="2.644"></rect>
+                  <rect x="34.803" y="2.893" width="2.642" height="7.929"></rect>
+                  <rect x="42.732" y="2.893" width="2.642" height="7.929"></rect>
+                  <polyline points="37.445,0.25 37.445,2.893 42.732,2.893 42.732,0.25 "></polyline>
+                  <rect x="37.445" y="10.821" width="5.288" height="2.644"></rect>
+                  <rect x="53.302" y="0.25" width="2.645" height="10.571"></rect>
+                  <rect x="55.946" y="10.821" width="5.282" height="2.644"></rect>
+                  <rect x="61.229" y="0.25" width="2.644" height="10.571"></rect>
+                  <rect x="74.443" y="2.893" width="2.642" height="10.572"></rect>
+                  <rect x="71.802" y="0.25" width="2.642" height="2.643"></rect>
+                  <rect x="77.085" y="0.25" width="2.644" height="2.643"></rect>
+                </svg>
+              </a>
+            </li>
           </ul>
 
           <div class="social-icons">
