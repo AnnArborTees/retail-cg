@@ -18,6 +18,7 @@
     <![endif]-->
   </head>
   <body>
+  <?php include_once("analyticstracking.php") ?>
 <div id="container">
 
       <header class="header" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
