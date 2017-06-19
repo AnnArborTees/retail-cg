@@ -16,6 +16,17 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <script>
+      (function(w, d, c, t, p, a){
+      w[c] = w[c] || function(){ (w[c].q = w[c].q || [])[p](arguments) };
+      var n = d.createElement(t), s = d.getElementsByTagName(t)[0];
+      n.async = true; n.src = '//lib.vmweb.net/identity.min.js';
+      s.parentNode.insertBefore(n, s);
+      var i = '2b50d367-b9c3-400f-44c6-b2ae84bdcf67';
+      w[c]('init', i, '50bcb396-6f98-49c3-83b1-827a8fada981'); w[c]('trackPageview');
+      })(window, document, 'IDENTITY', 'script', 'push');
+    </script>
+
   </head>
   <body>
   <?php include_once("analyticstracking.php") ?>
